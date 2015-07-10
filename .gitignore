@@ -9,8 +9,9 @@ node_modules
 
 # Book build output
 _book
-
+.settings
 # eBook build output
 *.epub
 *.mobi
 *.pdf
+.idea
