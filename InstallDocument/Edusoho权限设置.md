@@ -13,7 +13,7 @@
 
    打开Terminal，使用`cd` 命令定位到Edusoho的根目录，路径以客户的实际目录为准，命令实例：
    
-```php
+```python
 cd /var/www/edusoho
 ```
 
@@ -21,13 +21,13 @@ cd /var/www/edusoho
     
    在Edusoho目录下使用命令：
     
-```php
+```python
 sudo chown -R www-data:www-data ./
 ```
 
 ###当然也可以直接跳过第一步，直接执行：
 
-```php
+```python
 sudo chown -R www-data:www-data /var/www/edusoho
 ```
 
