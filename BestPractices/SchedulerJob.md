@@ -13,7 +13,8 @@
 ```php
 //biz.php
 $biz->register(new \Codeages\Biz\Framework\Provider\SchedulerServiceProvider());
-  
+```
+
 ## 定时任务配置项
 
 
