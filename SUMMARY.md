@@ -8,5 +8,6 @@
    * [PHP配置问题](./ServerDocument/PHP配置.md)
 * [最佳实践](./BestPractices/index.md)
    * [定时任务](./BestPractices/SchedulerJob.md)
+   * [GeneralDao更新操作](./BestPractices/GeneralDaoUpdate.md)
 
 * [定时任务列表](./Temporary/Jobs.md)
